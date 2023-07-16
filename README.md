@@ -1,4 +1,4 @@
-# MernShopifyCart
+# Shopify-MERN
 A mini MERN ecommerce project where authenticate user can fetch the products, see their details and add the products to cart.
 
 # Configuration 
